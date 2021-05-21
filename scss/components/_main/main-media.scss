@@ -1,0 +1,416 @@
+@media (max-width: 1250px ) {
+  .get-in-touch {
+    .get-in-touch-wrapper {
+      .inform {
+        .btn {
+
+          padding: 15px 245px;
+
+        }
+      }
+    }
+  }
+  .video-info {
+    .video-wrapper {
+      .article {
+        h1 {
+
+          font-size: 30pt;
+
+        }
+      }
+    }
+  }
+
+.get-in-touch {
+
+    .get-in-touch-wrapper {
+
+      .right-wrapper {
+
+        p {
+
+          padding: 20px 0;
+
+        }
+      }
+    }
+  }
+}
+
+
+  @media (max-width: 1024px) {
+    .video-info {
+      .video-wrapper {
+        .article {
+
+          padding-right: 50px;
+
+          h1 {
+
+            font-size: 25pt;
+            line-height: 40px;
+
+          }
+        }
+      }
+    }
+
+    .get-in-touch {
+      .get-in-touch-wrapper {
+
+        .inform {
+
+          .btn {
+
+            padding: 15px 155px;
+          }
+
+
+          .left-wrapper {
+
+
+            .input {
+
+              input[type=text] {
+
+                padding: 15px 0 15px 30px;
+              }
+
+              input[type=email] {
+
+                padding: 15px 0 15px 30px;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+
+
+  @media (max-width: 767px) {
+    .video-info {
+
+      .video-wrapper {
+        padding: 70px 0;
+        display: inline-block;
+
+        .article {
+          width: 100%;
+          padding-right: 0;
+
+          h1 {
+
+            font-size: 20pt;
+            line-height: 30px;
+          }
+        }
+
+        p {
+
+        }
+      }
+
+      a {
+
+        .btn {
+
+        }
+      }
+
+      .video {
+        width: 100%;
+        padding-top: 50px;
+      }
+    }
+
+    .info {
+      padding: 70px 0;
+
+      .info-wrapper {
+
+        display: inline-block;
+
+        .article {
+
+          width: 100%;
+          padding-right: 0;
+
+          h2 {
+            font-size: 25pt;
+          }
+
+          p {
+
+          }
+
+          a {
+
+
+            .btn {
+
+            }
+          }
+        }
+
+        .icons {
+
+          width: 100%;
+          padding-top: 60px;
+
+          .item {
+
+            padding: 10px 0;
+            width: 100%;
+
+
+            img {
+
+            }
+
+            h3 {
+
+            }
+
+            p {
+
+            }
+          }
+        }
+      }
+    }
+
+    hr {
+
+    }
+
+    .feature {
+      margin-bottom: 100px;
+
+      .feature-wrapper {
+
+        .inform {
+
+          h2 {
+
+            font-size: 24pt;
+          }
+
+          p {
+
+
+          }
+
+          .line {
+
+          }
+        }
+
+        .link-img {
+
+          nav {
+
+            ul {
+
+              li {
+                padding: 0 10px;
+
+                a {
+                  font-size: 8pt;
+
+                }
+              }
+            }
+          }
+
+          .pictures {
+
+            p {
+              width: 50%;
+            }
+
+            img {
+
+            }
+          }
+        }
+      }
+    }
+
+
+    .team {
+      .team-wrapper {
+
+        h2 {
+          font-size: 29pt;
+        }
+
+        p {
+
+        }
+
+        .line1 {
+
+        }
+
+        .wrapper {
+          display: inline;
+
+          .left-wrapper {
+
+            padding-bottom: 60px;
+            width: 100%;
+
+            img {
+
+
+            }
+
+
+          }
+
+          .right-wrapper {
+
+            padding: 0;
+            width: 100%;
+
+            h3 {
+
+            }
+
+            p {
+
+            }
+
+            nav {
+
+
+              ul {
+
+                li {
+
+                  a {
+
+                  }
+                }
+              }
+            }
+
+            .images {
+              display: inline;
+
+              img {
+
+                width: 50%;
+              }
+            }
+          }
+
+        }
+      }
+    }
+
+    .email {
+
+      .email-wrapper {
+
+        h3 {
+          font-size: 18pt;
+        }
+
+        p {
+
+        }
+
+        .input {
+          display: inline;
+
+          input[type=email] {
+
+            width: 100%;
+            margin-bottom: 50px;
+            padding: 25px;
+
+          }
+
+          a {
+
+
+          }
+        }
+      }
+    }
+
+    .get-in-touch {
+
+      .get-in-touch-wrapper {
+
+
+        .text {
+
+          h3 {
+
+          }
+
+          p {
+
+          }
+
+          .line {
+
+          }
+        }
+
+        .inform {
+
+          display: inline;
+
+          .left-wrapper {
+
+            width: 100%;
+            padding-right: 0;
+            margin-bottom: 60px;
+
+            .input {
+
+              input[type=text] {
+
+                padding: 15px 0 15px 30px;
+              }
+
+              input[type=email] {
+
+                padding: 15px 0 15px 30px;
+              }
+            }
+          }
+
+          input[name="message"] {
+
+          }
+
+          .btn {
+            padding: 15px 109px;
+
+          }
+        }
+
+        .right-wrapper {
+
+          width: 100%;
+
+          h3 {
+
+          }
+
+          p {
+
+          }
+        }
+      }
+    }
+  }
+
+
+
